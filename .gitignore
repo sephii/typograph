@@ -1,0 +1,5 @@
+.cache
+.eggs
+typograph.egg-info
+__pycache__
+*.pyc
